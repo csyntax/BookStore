@@ -15,8 +15,14 @@
 
         public virtual ICollection<Book> Books
         {
-            get { return this.books; }
-            set { this.books = value; }
+            get
+            {
+                return this.books;
+            }
+            set
+            {
+                this.books = value;
+            }
         }
     }
 }

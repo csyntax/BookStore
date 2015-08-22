@@ -3,3 +3,8 @@ c:\users\ivan\documents\visual studio 2013\Projects\BookStore\BookStore.Models\b
 c:\users\ivan\documents\visual studio 2013\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.csprojResolveAssemblyReference.cache
 c:\users\ivan\documents\visual studio 2013\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.dll
 c:\users\ivan\documents\visual studio 2013\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.pdb
+C:\Users\Ivan\Documents\GitHub\BookStore\BookStore.Models\bin\Debug\BookStore.Models.dll
+C:\Users\Ivan\Documents\GitHub\BookStore\BookStore.Models\bin\Debug\BookStore.Models.pdb
+C:\Users\Ivan\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\BookStore.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\BookStore.Models.dll
+C:\Users\Ivan\Documents\GitHub\BookStore\BookStore.Models\obj\Debug\BookStore.Models.pdb

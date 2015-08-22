@@ -1,15 +1,12 @@
-using BookStore.Models;
-
 namespace BookStore.Data
 {
     using System;
     using System.Data.Entity;
-    using System.Linq;
-    using Models;
+    using BookStore.Models;
 
     public class BookStoreContext : DbContext
     {
-        public BookStoreContext() : base("name=BookStoreContext")
+        public BookStoreContext() : base("BookStore")
         {
 
         }
