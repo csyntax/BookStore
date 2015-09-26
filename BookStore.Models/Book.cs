@@ -1,6 +1,7 @@
 ﻿namespace BookStore.Models
 {
     using System;
+
     public class Book
     {
         public int Id { get; set; }
